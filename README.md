@@ -64,7 +64,7 @@ Click **Add Origin**, select **CORS** and **Redirect** for Type, and add each of
 
 * `http://localhost:8000`
 * `http://localhost:9000`
-* `https://<your-site>.netlify.com`
+* `https://inspiring-ride-b14443.netlify.com`
 
 ### Configure your Okta Settings
 
