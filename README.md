@@ -98,4 +98,4 @@ Apache 2.0, see [LICENSE](LICENSE).
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/oktadeveloper/gatsby-netlify-okta-example)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/seanruggedcoastal/gatsby-netlify-okta-example-1)
